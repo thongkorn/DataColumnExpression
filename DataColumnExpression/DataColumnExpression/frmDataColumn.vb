@@ -41,7 +41,7 @@ Public Class frmDataColumn
         Cmd.Connection = Conn
         DA.SelectCommand = Cmd
 
-        '// Fill the DataTable
+        '// Fill the DataSet
         Cmd.CommandText = "SELECT * FROM Products"
         DA.Fill(DS, "Products")
 
