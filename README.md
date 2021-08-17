@@ -1,1 +1,3 @@
-# DataColumnExpression
+# Data Column Expression on DataGridView with VB.NET (2010)
+
+Data Column Expression เป็นการทำคำสั่งทางคณิตศาสตร์ให้กับฟิลด์ข้อมูล หรือหลัก (Column) ในตารางกริด เราสามารถกำหนดนิพจน์สำหรับคอลัมน์ใดๆ หรือทำให้มีการคำนวณจากค่าคอลัมน์อื่นๆในแถวเดียวกัน
